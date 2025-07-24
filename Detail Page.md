@@ -56,10 +56,6 @@ This line chart shows the trend of total transactions over time, specifically hi
 
 ## Detailed Analysis
 
-### Dashboard Image
-
-![Detailed Analysis Dashboard](path_to_image/Detailed_Analysis_Dashboard.png)
-
 ### Range Analysis (Current and Previous Month by ATM ID)
 
 This section provides an analysis of ATM performance by margin and transaction ranges for the current and previous month:
@@ -149,4 +145,3 @@ Data was collected from various sources including ATM transaction logs, maintena
 
 ---
 
-Make sure to replace `"path_to_image/ATM_Transaction_Dashboard_1.png"`, `"path_to_image/ATM_Transaction_Dashboard_2.png"`, and `"path_to_image/Detailed_Analysis_Dashboard.png"` with the actual paths to the images in your GitHub repository.
