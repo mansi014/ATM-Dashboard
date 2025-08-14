@@ -1,12 +1,12 @@
-# 💳 ATM Transaction Dashboard (Power BI)
+# ATM Transaction Dashboard (Power BI)
 
 This project is a **Power BI-based dashboard** that offers a deep analytical view of **ATM transactions**, **costs**, **revenues**, and **performance metrics** across multiple regions in India. It is designed to support stakeholders in monitoring trends, optimizing costs, and making strategic decisions.
 
 ---
 
-## 📌 Key Features
+## Key Features
 
-### ✅ **Cost Analysis**
+###  **Cost Analysis**
 Breakdown of ATM operational costs, including:
 - CRA (Cash Replenishment Agency)
 - ATM AMC
@@ -19,7 +19,7 @@ Breakdown of ATM operational costs, including:
 
 ---
 
-### ✅ **Key Metrics**
+###  **Key Metrics**
 - **Total Cost:** ₹296M  
 - **Average Total Transactions (TXN):** 178.89M  
 - **Gross Profit %:** 59.6%  
@@ -28,20 +28,20 @@ Breakdown of ATM operational costs, including:
 
 ---
 
-### ✅ **Revenue Analysis**
+###  **Revenue Analysis**
 Displays revenue by region and source:
 - Revenue streams: **ATM**, **MHA**, and **Monthly Revenue**
 - Focus regions: Assam, Punjab, J&K, Manipur, Tripura, Nagaland, Meghalaya, Mizoram, Arunachal Pradesh, Ladakh, Sikkim
 
 ---
 
-### ✅ **Transaction Breakdown**
+###  **Transaction Breakdown**
 - **Financial vs. Non-Financial Transactions** by month
 - Transaction trends over time (March, May, July, September, November 2024)
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 | Tool      | Purpose                  |
 |-----------|--------------------------|
@@ -55,7 +55,7 @@ Displays revenue by region and source:
 
 ---
 
-## 📁 Data Handling
+## Data Handling
 
 - Collected from ATM logs, financial reports, and maintenance systems
 - Cleaned and preprocessed before loading into Power BI
@@ -63,7 +63,7 @@ Displays revenue by region and source:
 
 ---
 
-## 📈 Insights Derived
+## Insights Derived
 
 1. **Cost Efficiency**: Identify high-cost areas like site maintenance or spare replacements.
 2. **Revenue Streams**: Pinpoint top-performing regions.
@@ -72,7 +72,7 @@ Displays revenue by region and source:
 
 ---
 
-## 💡 Why This Dashboard Matters
+## Why This Dashboard Matters
 
 - Helps in **reducing operational costs** by revealing inefficiencies
 - Supports **data-driven decisions** for regional expansion
@@ -81,7 +81,7 @@ Displays revenue by region and source:
 
 ---
 
-## 📎 How to Use
+## How to Use
 
 > Open the `.pbix` file in **Power BI Desktop**  
 > Navigate through the report pages for cost, revenue, and transaction analytics.
